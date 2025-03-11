@@ -1,3 +1,12 @@
+/*
+Avaliação Parcial Algoritmos e Estrutura de Dados. 11/03/2025
+Faculdade Impacta - Ciência da Computação - 3 Semestre - Manhã
+Desenvolvido e Criado por:
+    Gabriel Muchon Pavanelli RA: 2401895
+    Guilherme Pinheiro dos Santos RA: 2401832
+4- Criar um programa que leia um valor e apresente os resultados ao quadrado e ao cubo do valor.
+
+ */
 import java.util.Scanner;
 
 public class Questao4QuadradoeaoCubodoValor {
