@@ -4,7 +4,7 @@ Faculdade Impacta - Ciência da Computação - 3 Semestre - Manhã
 Desenvolvido e Criado por:
     Gabriel Muchon Pavanelli RA: 2401895
     Guilherme Pinheiro dos Santos RA: 2401832
-5- Criar um programa que resolve equações do segundo grau (ax2+bx+c=0). Utilizando a formula de Bhaskara. Use como exemplo a=1, b= 12, c= -13. Encontre o Delta.
+6 - Criar um programa que resolve equações do segundo grau (ax2+bx+c=0). Utilizando a formula de Bhaskara. Use como exemplo a=1, b= 12, c= -13. Encontre o Delta.
 
 fórmula=
 delta = (b*b)-4-a*c
